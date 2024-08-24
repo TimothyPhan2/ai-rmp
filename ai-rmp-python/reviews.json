@@ -1,0 +1,124 @@
+{
+  "profReviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "course": "Introduction to Psychology",
+      "stars": 4,
+      "review": "Dr. Johnson is very knowledgeable and makes complex concepts easy to understand. Her lectures are engaging, but the workload can be heavy at times."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "course": "Advanced Calculus",
+      "stars": 5,
+      "review": "Brilliant professor! Prof. Chen's passion for mathematics is contagious. His problem-solving techniques are incredibly helpful."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "course": "World History",
+      "stars": 3,
+      "review": "Dr. Williams knows her subject well, but her lectures can be a bit dry. More interactive elements would greatly improve the class."
+    },
+    {
+      "professor": "Prof. David Brown",
+      "course": "Organic Chemistry",
+      "stars": 4,
+      "review": "Challenging course, but Prof. Brown is always willing to help during office hours. His lab demonstrations are particularly useful."
+    },
+    {
+      "professor": "Dr. Lisa Garcia",
+      "course": "Contemporary Literature",
+      "stars": 5,
+      "review": "Dr. Garcia's enthusiasm for literature is infectious. Her class discussions are thought-provoking and she provides excellent feedback on essays."
+    },
+    {
+      "professor": "Prof. Robert Taylor",
+      "course": "Microeconomics",
+      "stars": 2,
+      "review": "The course material is interesting, but Prof. Taylor's teaching style is confusing. Often leaves students with more questions than answers."
+    },
+    {
+      "professor": "Dr. Amanda Lee",
+      "course": "Human Anatomy",
+      "stars": 4,
+      "review": "Dr. Lee's use of 3D models and practical demonstrations really helps in understanding complex anatomical structures. Exams are tough but fair."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "course": "Introduction to Programming",
+      "stars": 3,
+      "review": "Prof. Wilson knows his stuff, but sometimes struggles to explain concepts to beginners. The programming projects are interesting though."
+    },
+    {
+      "professor": "Dr. Olivia Martinez",
+      "course": "Environmental Science",
+      "stars": 5,
+      "review": "Dr. Martinez is passionate about environmental issues and it shows in her teaching. The field trips she organizes are both fun and educational."
+    },
+    {
+      "professor": "Prof. Thomas Anderson",
+      "course": "Classical Physics",
+      "stars": 4,
+      "review": "Prof. Anderson has a talent for making complex physics concepts accessible. His problem-solving sessions are particularly helpful."
+    },
+    {
+      "professor": "Dr. Rachel Kim",
+      "course": "Abnormal Psychology",
+      "stars": 5,
+      "review": "Dr. Kim brings real-world examples into her lectures, making the subject matter come alive. Her assignments encourage critical thinking."
+    },
+    {
+      "professor": "Prof. Daniel White",
+      "course": "Financial Accounting",
+      "stars": 3,
+      "review": "Prof. White is knowledgeable, but his lectures can be monotonous. The practice problems he provides are very helpful for exam preparation."
+    },
+    {
+      "professor": "Dr. Sophia Patel",
+      "course": "Molecular Biology",
+      "stars": 4,
+      "review": "Dr. Patel is clearly an expert in her field. The lab work is challenging but rewarding. Would appreciate more guidance on lab reports."
+    },
+    {
+      "professor": "Prof. Christopher Davis",
+      "course": "Modern Art History",
+      "stars": 5,
+      "review": "Prof. Davis's passion for art is evident in every lecture. His virtual museum tours are an innovative and engaging way to learn."
+    },
+    {
+      "professor": "Dr. Elizabeth Turner",
+      "course": "Cognitive Science",
+      "stars": 2,
+      "review": "The course content is interesting, but Dr. Turner's lectures are often disorganized and hard to follow. More structure would be beneficial."
+    },
+    {
+      "professor": "Prof. Alexander Nguyen",
+      "course": "International Relations",
+      "stars": 4,
+      "review": "Prof. Nguyen brings a wealth of real-world experience to the classroom. His debates and simulations are highlights of the course."
+    },
+    {
+      "professor": "Dr. Natalie Foster",
+      "course": "Astrophysics",
+      "stars": 5,
+      "review": "Dr. Foster has an incredible ability to explain complex cosmic phenomena. The stargazing sessions she organizes are unforgettable."
+    },
+    {
+      "professor": "Prof. Kevin O'Brien",
+      "course": "Marketing Strategy",
+      "stars": 3,
+      "review": "Prof. O'Brien's real-world marketing examples are valuable, but the group projects can be chaotic. More guidance on team dynamics would help."
+    },
+    {
+      "professor": "Dr. Maria Rodriguez",
+      "course": "Neuroscience",
+      "stars": 4,
+      "review": "Dr. Rodriguez is at the cutting edge of neuroscience research. Her lectures are challenging but incredibly rewarding for those who put in the effort."
+    },
+    {
+      "professor": "Prof. Jonathan Lee",
+      "course": "Constitutional Law",
+      "stars": 5,
+      "review": "Prof. Lee's moot court simulations are excellent preparation for aspiring lawyers. His feedback on legal arguments is always constructive and insightful."
+    }
+  ]
+}
